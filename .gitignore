@@ -31,3 +31,7 @@
 **!.vscode/tasks.json
 **!.vscode/launch.json
 **!.vscode/extensions.json
+
+# yardn
+**yarn.lock
+**yarn-error.log
